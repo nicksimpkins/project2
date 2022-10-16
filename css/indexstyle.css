@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	font-family: monospace;
+	background-color: #c1d3d6;
 }
 .door {
 	height: 500px;
