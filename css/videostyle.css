@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	font-family: monospace;
+	background-image: url("../media/woods.jpg");
+	background-color: white;
+}
+.videotext {
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+}
+h1 {
+	font-weight: bold;
+	color: brown;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
