@@ -1,0 +1,17 @@
+body {
+	background-color: #48c3db;
+	font-family: Arial;
+	text-align: center;
+}
+#info {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid blue;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
