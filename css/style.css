@@ -20,7 +20,31 @@ ul {
   display: table;
   margin: 0 auto;
 }
-#info {
+#contactinfo {
+  background-color: white;
+  padding: 5px;
+  border: 1px solid blue;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#edinfo {
+  background-color: white;
+  padding: 5px;
+  border: 1px solid blue;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#workinfo {
+  background-color: white;
+  padding: 5px;
+  border: 1px solid blue;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#skillsinfo {
   background-color: white;
   padding: 5px;
   border: 1px solid blue;
