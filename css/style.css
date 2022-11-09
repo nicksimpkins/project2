@@ -3,10 +3,12 @@ body {
   font-family: Arial;
   text-align: center;
 }
+/* First float/position */
 .videotext {
   font-size: 14px;
   font-weight: bold;
   color: white;
+  float: none;
 }
 a {
   color: black;
@@ -56,9 +58,17 @@ ul {
   margin-left: auto;
   border-radius: 25px;
 }
-.door {
+/* Second float/position */
+.door1 {
   height: 500px;
   width: 500px;
+  position: relative;
+}
+/* Third float/position */
+.door2 {
+  height: 500px;
+  width: 500px;
+  position: relative;
 }
 .iit {
   height: 320px;
@@ -90,5 +100,9 @@ h2 {
 }
 .inxheader {
   font-style: italic;
+}
+/* Fourth float/position */
+.vid {
+  position: static;
 }
 	
